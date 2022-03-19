@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'sorters/visits_sorter'
 require 'set'
 

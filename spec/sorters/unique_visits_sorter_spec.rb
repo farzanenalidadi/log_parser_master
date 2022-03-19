@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 require 'sorters/unique_visits_sorter'
 require 'set'

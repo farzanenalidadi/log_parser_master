@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'parsers/parser_factory'
 require 'parsers/space_separated_parser'
 

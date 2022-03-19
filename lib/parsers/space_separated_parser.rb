@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Use Set class for create unique list
 require 'set'
 
@@ -21,7 +23,7 @@ class SpaceSeparatedParser
 
       append_line(line)
     end
-    
+
     return @pars_data unless @pars_data.empty?
 
     raise(ArgumentError, 'The file have  not any valid line!')

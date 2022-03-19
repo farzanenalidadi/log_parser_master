@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PlainTextFormatter
   def format(head, pars_data)
     puts("####----#{head}----###")

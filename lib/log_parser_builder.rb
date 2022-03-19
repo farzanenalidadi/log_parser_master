@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 require_relative 'parsers/parser_factory'
 require_relative 'formatters/formatter_factory'

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'parsers/space_separated_parser'
 require 'tempfile' # Use Tempfile class  to create temporary file in test
 

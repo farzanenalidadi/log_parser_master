@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'formatters/formatter_factory'
 require 'formatters/plain_text_formatter'
 

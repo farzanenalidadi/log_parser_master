@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 describe PlainTextFormatter do
   describe '#format' do
