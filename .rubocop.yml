@@ -1,0 +1,24 @@
+AllCops:
+  NewCops: disable
+  SuggestExtensions: false
+  Exclude:
+    - spec/spec_helper.rb
+    - Gemfile
+
+Style/FrozenStringLiteralComment:
+  Enabled: true
+Style/IfUnlessModifier:
+  Enabled: false
+Style/StringLiterals:
+  Enabled: false
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+
+
+
